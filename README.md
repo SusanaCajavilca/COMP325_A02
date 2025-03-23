@@ -1,6 +1,6 @@
 # COMP325_A02
 
-## Asignment 02 
+## Assignment 02 
 
 UI for API Data
 
